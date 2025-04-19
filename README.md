@@ -6,8 +6,6 @@ A deep learning solution to predict customer churn using Artificial Neural Netwo
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
-<img src="https://i.imgur.com/5Xy3z9a.png" width="600" alt="App Screenshot">
-
 ---
 
 ## 📌 Business Value
