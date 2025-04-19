@@ -4,7 +4,6 @@ A deep learning solution to predict customer churn using Artificial Neural Netwo
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://anncustomerchurnanalysis-jwl8tybjx7tlhk2u9ldfsy.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 ---
 
