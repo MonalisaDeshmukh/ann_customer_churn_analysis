@@ -3,7 +3,7 @@
 A deep learning solution to predict customer churn using Artificial Neural Networks (ANN), deployed as an interactive web app.
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://anncustomerchurnanalysis-jwl8tybjx7tlhk2u9ldfsy.streamlit.app/)
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
 
 ---
 
